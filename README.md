@@ -74,10 +74,10 @@ python quiz.py
 ![Main Menu](menu.png)
 
 ### Quiz
-![Quiz](Quiz menu.png)
+![Quiz](quiz.png)
 
 ### Result
-![Result](Result menu.png)
+![Result](result.png)
 
 ## 📈 Future Enhancements
 
