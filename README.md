@@ -68,6 +68,20 @@ python quiz.py
 
 ---
 
+## 📸 Project Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Quiz
+
+![Quiz](screenshots/quiz.png)
+
+### Result
+
+![Result](screenshots/result.png)
+
 ## 📈 Future Enhancements
 
 - Store questions in a database
