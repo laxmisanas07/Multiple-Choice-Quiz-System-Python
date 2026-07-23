@@ -71,16 +71,13 @@ python quiz.py
 ## 📸 Project Screenshots
 
 ### Main Menu
-
-![Main Menu](screenshots/menu.png)
+![Main Menu](menu.png)
 
 ### Quiz
-
-![Quiz](screenshots/quiz.png)
+![Quiz](quiz.png)
 
 ### Result
-
-![Result](screenshots/result.png)
+![Result](result.png)
 
 ## 📈 Future Enhancements
 
